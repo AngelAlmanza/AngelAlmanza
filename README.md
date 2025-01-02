@@ -87,7 +87,6 @@ I am a software engineer with a passion for creating and developing software. I 
   </a>
 </p>
 
-![AngelAlmanza GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelAlmanza&show_icons=true&theme=dracula)
 
 ## Contact Me
 * ✉️  You can contact me at [almanza.angel245@gmail.com](mailto:almanza.angel245@gmail.com)
