@@ -45,15 +45,16 @@ While my strongest foundation is the **JavaScript/TypeScript** ecosystem, I have
 > 🚀 **Current Goal:** Preparing for my **AWS Certified Developer** associate exam.
 
 ---
+<!-- This section is not working because we need to deploy it by ourselves, not using the vercel app -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlmanza&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/stats/?username=AngelAlmanza&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlmanza&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/stats/?username=AngelAlmanza&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
----
+--- -->
 
 ## 🚀 Professional Experience
 
